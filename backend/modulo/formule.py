@@ -10,7 +10,7 @@ def area_rettangolo(b:float,h:float):
 def area_cerchio(r:float):
     '''Calcola l'area del cerchio'''
     area = (r**2)*math.pi
-    #print("L'area del cer
+    #print("L'area del cerchio è",area,"m²")
     return area
     
 def area_triangolo(b:float,h:float):
