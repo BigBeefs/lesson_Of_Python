@@ -1,1 +1,0 @@
-'''File che permette di poter cercare nel contenuto di cartelle '''

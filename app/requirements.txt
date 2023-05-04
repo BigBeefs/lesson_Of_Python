@@ -3,3 +3,6 @@ streamlit
 pandas
 matplotlib.pyplot
 scikit-learn
+openpyxl
+seaborn
+io
